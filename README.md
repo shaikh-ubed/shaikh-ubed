@@ -29,7 +29,7 @@ Skills: LINUX / SHELL  / AWS/ TERRAFORM / ANSIBLE / GIT & GITHUB / MAVEN / JENKI
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=shaikh-ubed&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shaikh-ubed&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shaikh-ubed&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 
 
 
