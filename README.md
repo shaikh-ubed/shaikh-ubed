@@ -11,7 +11,7 @@ I ' am ubed AWS cloud & Devops engineer with several years of experience in micr
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHAIKH-UBED&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SHAIKH-UBED&show_icons=true&theme=blue-green)
 
 Skills: LINUX / SHELL  / AWS/ TERRAFORM / ANSIBLE / GIT & GITHUB / MAVEN / JENKINS / SONARQUBE / JROG / DOCKER / KUBERNETES / PROMETHEUS & GRAFAN / JIRA
 
