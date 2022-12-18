@@ -17,21 +17,21 @@ I ' am ubed AWS cloud & Devops engineer with several years of experience in micr
 ### Languages and Tools:
 
 <img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/linux.png"/>
-<img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/shell.jpg"/>
-<img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/aws.png"/>
+<img align="left" alt="Unix" width="50px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/shell.jpg"/>
+<img align="left" alt="Unix" width="50px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/aws.png"/>
 <img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/teraform.png"/>
 <img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/Ansible.png"/>
-<img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/git.png"/>
+<img align="left" alt="Unix" width="60px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/git.png"/>
 <img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/github.png"/>
-<img align="left" alt="Unix" width="60px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/maven.jpg"/>
-<img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/jenkins.png"/>
-<img align="left" alt="Unix" width="60px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/sonarqube.png"/>
-<img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/nexus.png"/>
+<img align="left" alt="Unix" width="70px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/maven.jpg"/>
+<img align="left" alt="Unix" width="50px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/jenkins.png"/>
+<img align="left" alt="Unix" width="70px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/sonarqube.png"/>
+<img align="left" alt="Unix" width="60px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/nexus.png"/>
 <img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/docker.png"/>
 <img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/kubernetes.png"/>
 <img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/prometheus.png"/>
 <img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/grafana.png"/>
-<img align="left" alt="Unix" width="60px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/jira.png"/>
+<img align="left" alt="Unix" width="70px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/jira.png"/>
 
 
 
