@@ -13,6 +13,8 @@ I ' am ubed AWS cloud & Devops engineer with several years of experience in micr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ubed-shaikh-devops/) 
 
 
+[<img align="left" alt="Unix" width="30px" src="[https://raw.githubusercontent.com/deekshithsn/DeekshithSN/master/Tools_icons/linux.png](https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/linux.png)" />][]
+
 
 
 
