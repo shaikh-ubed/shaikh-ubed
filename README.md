@@ -12,12 +12,16 @@ I ' am ubed AWS cloud & Devops engineer with several years of experience in micr
 ## 🌐 CONNECT WITH ME:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ubed-shaikh-devops/) 
 
+<br />
+
+### Languages and Tools:
 
 [<img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/linux.png"/>]
 
 
 
-
+<br />
+<br />
 
 
 Skills: LINUX / SHELL  / AWS/ TERRAFORM / ANSIBLE / GIT & GITHUB / MAVEN / JENKINS / SONARQUBE / JROG / DOCKER / KUBERNETES / PROMETHEUS & GRAFAN / JIRA
