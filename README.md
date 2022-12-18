@@ -17,7 +17,7 @@ I ' am ubed AWS cloud & Devops engineer with several years of experience in micr
 ### Languages and Tools:
 
 <img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/linux.png"/>
-<img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/linux.png"/>
+<img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/Ansible.png"/>
 <img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/linux.png"/>
 <img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/linux.png"/>
 <img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/linux.png"/>
