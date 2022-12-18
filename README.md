@@ -31,7 +31,7 @@ I ' am ubed AWS cloud & Devops engineer with several years of experience in micr
 <img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/kubernetes.png"/>
 <img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/prometheus.png"/>
 <img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/grafana.png"/>
-<img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/linux.png"/>
+<img align="left" alt="Unix" width="40px" src="https://github.com/shaikh-ubed/shaikh-ubed/blob/main/gif_icons/jira.png"/>
 
 
 
@@ -48,7 +48,7 @@ I ' am ubed AWS cloud & Devops engineer with several years of experience in micr
 
 
 
-Skills: LINUX / SHELL  / AWS/ TERRAFORM / ANSIBLE / GIT & GITHUB / MAVEN / JENKINS / SONARQUBE / JROG / DOCKER / KUBERNETES / PROMETHEUS & GRAFAN / JIRA
+
 
 
 
