@@ -37,6 +37,15 @@ I ' am ubed AWS cloud & Devops engineer with several years of experience in micr
 
 <br />
 <br />
+<br />
+
+
+
+
+
+
+
+
 
 
 Skills: LINUX / SHELL  / AWS/ TERRAFORM / ANSIBLE / GIT & GITHUB / MAVEN / JENKINS / SONARQUBE / JROG / DOCKER / KUBERNETES / PROMETHEUS & GRAFAN / JIRA
