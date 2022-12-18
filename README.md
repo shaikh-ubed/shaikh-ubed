@@ -12,7 +12,7 @@ I ' am ubed AWS cloud & Devops engineer with several years of experience in micr
 ## 🌐 CONNECT WITH ME:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ubed-shaikh-devops/) 
 
-
+[linkedin]: https://www.linkedin.com/in/ubed-shaikh-devops/
 
 
 
